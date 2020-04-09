@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post
+title: First Post
 categories: Miscellaneous
 ---
 
